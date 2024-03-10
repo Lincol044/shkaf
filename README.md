@@ -1,16 +1,7 @@
-# flutter_application_3
+# Лабораторная работа шкаф
+## Пустой шкаф
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Заполненный шкаф
+![image](https://github.com/Lincol044/shkaf/assets/144316441/9f582398-0f85-4852-bb28-723700cfa536)
+![image](https://github.com/Lincol044/shkaf/assets/144316441/36e13ef2-52a3-46db-a9fd-af86163a7a33)
